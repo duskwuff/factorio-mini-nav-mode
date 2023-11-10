@@ -1,0 +1,13 @@
+{
+  "name": "mini-nav-mode",
+  "version": "1.0.0",
+  "title": "Mini Nav Mode",
+  "author": "Dusk",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base",
+    "! space-exploration",
+    "? RemoteConfiguration"
+  ],
+  "description": "Adds a hotkey to open the map zoomed to the player. Use with Remote Configuration to manage your base remotely."
+}
